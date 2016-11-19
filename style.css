@@ -1,0 +1,46 @@
+* {
+  font-family: Helvetica;
+  background-color: #dbdbdb;
+  /*box-sizing: border-box;*/
+}
+
+.container {
+  background-color: red;
+  /*border-style: dotted;
+  border-width: thin;
+  border-color: #777777;*/
+  padding: 3px;
+  margin: 50px;
+}
+
+.navbox {
+  background-color: blue;
+  border-style: double;
+  border-width: 4px;
+  border-color: #003e68;
+  width: 150px;
+  float: right;
+  margin-right: 175px;
+  margin-top: 100px;
+}
+
+.lesson-notes{
+  padding: 100px;
+}
+
+.topic {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.description {
+  font-size: 15px;
+  border-radius: 5px;
+}
+
+/* This is a CSS comment. Notice that CSS comments are
+enclosed by different characters than HTML comments. */
+
+/* CSS allows you to give your page style (colors, shapes, fonts, etc.)
+You can apply CSS elements to entire HTML classes. Review Lesson 1.3
+if you need a refresher about how to do this. */
